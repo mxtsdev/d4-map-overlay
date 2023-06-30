@@ -2,6 +2,8 @@ import cv2
 import json
 import math
 import time
+import sys
+import os
 import numpy as np
 from mss import mss
 import pygame as pg
@@ -9,6 +11,15 @@ import win32gui
 import win32con
 import win32api
 import argparse
+
+def resource_path(relative):
+	if hasattr(sys, "_MEIPASS") == True:
+		return os.path.join(
+			sys._MEIPASS,
+			relative
+		)
+	else:
+	    return relative
 
 class MapCoords():
 	def __init__(self):
@@ -127,12 +138,19 @@ if __name__ == '__main__':
 	parser.add_argument('--debug', default=False, type=lambda x: x.lower() not in ['false', 'no', '0', 'None'], help='toggle debug mode')
 	opt = parser.parse_args()
 
+	print("")
+	print("======================================")
+	print("Diablo IV: Altar of Lilith Map Overlay")
+	print("======================================")
+	print("")
+	print("Press Q to exit...")
+
 	if opt.use_large_map == True:
 		zoom = 6
-		map_image_path = 'map_images/map_5.jpg'
+		map_image_path = resource_path('map_images/map_5.jpg')
 	else:
 		zoom = 5
-		map_image_path = 'map_images/map_5_small.jpg'
+		map_image_path = resource_path('map_images/map_5_small.jpg')
 
 	map_scale = 0.5
 	map_image = cv2.imread(map_image_path)
@@ -140,7 +158,7 @@ if __name__ == '__main__':
 
 	mc = MapCoords()
 	markers = []
-	with open('data.json', 'r') as f:
+	with open(resource_path('data.json'), 'r') as f:
 		data = json.load(f)
 		jmarkers = data["markers"]
 		for m in jmarkers:
@@ -172,7 +190,8 @@ if __name__ == '__main__':
 	sct = mss()
 	w, h = info.current_w, info.current_h
 	monitor = {'top': 0, 'left': 0, 'width': w, 'height': h}
-	while 1:
+	running = True
+	while running:
 		start_ss = time.time()
 		screenshot = np.array(sct.grab(monitor))
 		screenshot = cv2.cvtColor(screenshot, cv2.COLOR_RGB2BGR)
@@ -193,8 +212,11 @@ if __name__ == '__main__':
 
 		clock.tick(FPS)
 
-		if cv2.waitKey(25) & 0xFF == ord('q'):
-			break
+		for event in pg.event.get():
+			if event.type == pg.QUIT:
+				running = False
+			elif event.type == pg.KEYDOWN and event.key == pg.K_q:
+				running = False
 
 	pg.quit()
 	cv2.destroyAllWindows()
