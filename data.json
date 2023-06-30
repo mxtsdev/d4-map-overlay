@@ -1,0 +1,6772 @@
+{
+    "markers": [
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 1,
+            "coords": [
+                52.7,
+                -57
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 2,
+            "coords": [
+                49.84,
+                -54.05
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 3,
+            "coords": [
+                50.99,
+                -47.29
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 4,
+            "coords": [
+                54.56,
+                -36.47
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 5,
+            "coords": [
+                57.3,
+                -50.05
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 6,
+            "coords": [
+                57.49,
+                -39.77
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 7,
+            "coords": [
+                58.26,
+                -42.41
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 8,
+            "coords": [
+                56.82,
+                -32.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 9,
+            "coords": [
+                48.17,
+                -33
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 10,
+            "coords": [
+                51.29,
+                -26.24
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 11,
+            "coords": [
+                46.56,
+                -11.82
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 12,
+            "coords": [
+                51.34,
+                -6.9
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 13,
+            "coords": [
+                55.53,
+                -15.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 14,
+            "coords": [
+                57.18,
+                -15.64
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 15,
+            "coords": [
+                56.39,
+                -4.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 16,
+            "coords": [
+                58.45,
+                -12.52
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 17,
+            "coords": [
+                61.42,
+                -3.43
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 18,
+            "coords": [
+                60.8,
+                4.31
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 19,
+            "coords": [
+                67.02,
+                -7.08
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 20,
+            "coords": [
+                61.16,
+                -18.5
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 21,
+            "coords": [
+                63.11,
+                -26.76
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 22,
+            "coords": [
+                65.51,
+                -24.7
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 23,
+            "coords": [
+                65.64,
+                -31.2
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 24,
+            "coords": [
+                67.84,
+                -36.78
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 25,
+            "coords": [
+                68.06,
+                -43.24
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 26,
+            "coords": [
+                67.19,
+                -51.2
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 27,
+            "coords": [
+                63.51,
+                -42.67
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Fractured Peaks",
+            "id": 28,
+            "coords": [
+                64.49,
+                -50.27
+            ],
+            "special": false
+        },
+        {
+            "name": "Nostrava",
+            "type": "Stronghold",
+            "zone": "Fractured Peaks",
+            "id": 29,
+            "coords": [
+                56.19,
+                -50.05
+            ],
+            "special": false
+        },
+        {
+            "name": "Malnok",
+            "type": "Stronghold",
+            "zone": "Fractured Peaks",
+            "id": 30,
+            "coords": [
+                59.4,
+                -12.26
+            ],
+            "special": false
+        },
+        {
+            "name": "Kor Dragan",
+            "type": "Stronghold",
+            "zone": "Fractured Peaks",
+            "id": 31,
+            "coords": [
+                68.67,
+                -36.17
+            ],
+            "special": false
+        },
+        {
+            "name": "Nevesk",
+            "type": "Waygate",
+            "zone": "Fractured Peaks",
+            "id": 32,
+            "coords": [
+                50.43,
+                -49.82
+            ],
+            "special": false
+        },
+        {
+            "name": "Margrave",
+            "type": "Waygate",
+            "zone": "Fractured Peaks",
+            "id": 33,
+            "coords": [
+                50.32,
+                -34.45
+            ],
+            "special": false
+        },
+        {
+            "name": "Yelesna",
+            "type": "Waygate",
+            "zone": "Fractured Peaks",
+            "id": 34,
+            "coords": [
+                49.24,
+                -15.69
+            ],
+            "special": false
+        },
+        {
+            "name": "Bear Tribe Refuge",
+            "type": "Waygate",
+            "zone": "Fractured Peaks",
+            "id": 35,
+            "coords": [
+                63.72,
+                -9.8
+            ],
+            "special": false
+        },
+        {
+            "name": "Kyovashad",
+            "type": "Waygate",
+            "zone": "Fractured Peaks",
+            "id": 36,
+            "coords": [
+                59.53,
+                -32.08
+            ],
+            "special": false
+        },
+        {
+            "name": "Nostrava",
+            "type": "Waygate",
+            "zone": "Fractured Peaks",
+            "id": 37,
+            "coords": [
+                56.99,
+                -51.33
+            ],
+            "special": false
+        },
+        {
+            "name": "Menestad",
+            "type": "Waygate",
+            "zone": "Fractured Peaks",
+            "id": 38,
+            "coords": [
+                65.53,
+                -43.07
+            ],
+            "special": false
+        },
+        {
+            "name": "Lost Archives",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "All",
+            "aspect": "Aspect of the Protector",
+            "id": 39,
+            "coords": [
+                48.52,
+                -54.45
+            ],
+            "special": false
+        },
+        {
+            "name": "Tormented Ruins",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Druid",
+            "aspect": "Aspect of the Unsatiated",
+            "id": 40,
+            "coords": [
+                53.43,
+                -49.26
+            ],
+            "special": false
+        },
+        {
+            "name": "Defiled Catacomb",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Barbarian",
+            "aspect": "Aspect of Tempering Blows",
+            "id": 41,
+            "coords": [
+                49.25,
+                -45.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Light's Watch",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Conflagration",
+            "id": 42,
+            "coords": [
+                54.26,
+                -34.54
+            ],
+            "special": false
+        },
+        {
+            "name": "Maulwood",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Barbarian",
+            "aspect": "Slaking Aspect",
+            "id": 43,
+            "coords": [
+                50.62,
+                -30.59
+            ],
+            "special": false
+        },
+        {
+            "name": "Dead Man's Dredge",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Piercing Cold",
+            "id": 44,
+            "coords": [
+                50.06,
+                -5.58
+            ],
+            "special": false
+        },
+        {
+            "name": "Immortal Emanation",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Druid",
+            "aspect": "Mangled Aspect",
+            "id": 45,
+            "coords": [
+                58.21,
+                -19.12
+            ],
+            "special": false
+        },
+        {
+            "name": "Hallowed Ossuary",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Barbarian",
+            "aspect": "Aspect of Unrelenting Fury",
+            "id": 46,
+            "coords": [
+                58.99,
+                -15.03
+            ],
+            "special": false
+        },
+        {
+            "name": "Anica's Claim",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Druid",
+            "aspect": "Stormclaw's Aspect",
+            "id": 47,
+            "coords": [
+                60.89,
+                -11.6
+            ],
+            "special": false
+        },
+        {
+            "name": "Rimescar Cavern",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Necromancer",
+            "aspect": "Aspect of Plunging Darkness",
+            "id": 48,
+            "coords": [
+                60.82,
+                -8.17
+            ],
+            "special": false
+        },
+        {
+            "name": "Sanguine Chapel",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Rogue",
+            "aspect": "Energizing Aspect",
+            "id": 49,
+            "coords": [
+                61.52,
+                10.2
+            ],
+            "special": false
+        },
+        {
+            "name": "Zenith",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Sorcerer",
+            "aspect": "Recharging Aspect",
+            "id": 50,
+            "coords": [
+                65.42,
+                2.86
+            ],
+            "special": false
+        },
+        {
+            "name": "Kor Valar Ramparts",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Rogue",
+            "aspect": "Blast-Trapper's Aspect",
+            "id": 51,
+            "coords": [
+                67.2,
+                2.11
+            ],
+            "special": false
+        },
+        {
+            "name": "Hoarfrost Demise",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Necromancer",
+            "aspect": "Blood-bathed Aspect",
+            "id": 52,
+            "coords": [
+                66.02,
+                -7.16
+            ],
+            "special": false
+        },
+        {
+            "name": "Black Asylum",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Necromancer",
+            "aspect": "Aspect of Torment",
+            "id": 53,
+            "coords": [
+                63.35,
+                -20.7
+            ],
+            "special": false
+        },
+        {
+            "name": "Forsaken Quarry",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Rogue",
+            "aspect": "Aspect of Encircling Blades",
+            "id": 54,
+            "coords": [
+                64.73,
+                -28.39
+            ],
+            "special": false
+        },
+        {
+            "name": "Kor Dragan Barracks",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Barbarian",
+            "aspect": "Aspect of Anemia",
+            "id": 55,
+            "coords": [
+                69.53,
+                -32.56
+            ],
+            "special": false
+        },
+        {
+            "name": "Forbidden City",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Druid",
+            "aspect": "Nighthowler's Aspect",
+            "id": 56,
+            "coords": [
+                67.99,
+                -41.35
+            ],
+            "special": false
+        },
+        {
+            "name": "Mercy's Reach",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Necromancer",
+            "aspect": "Blood Seeker's Aspect",
+            "id": 57,
+            "coords": [
+                70.48,
+                -48.52
+            ],
+            "special": false
+        },
+        {
+            "name": "Caldera Gate",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "All",
+            "aspect": "Eluding Aspect",
+            "id": 58,
+            "coords": [
+                66.18,
+                -56.03
+            ],
+            "special": false
+        },
+        {
+            "name": "Nostrava Deepwood",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Necromancer",
+            "aspect": "Flesh-Rending Aspect",
+            "id": 59,
+            "coords": [
+                62.91,
+                -52.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Derelict Lodge",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Rogue",
+            "aspect": "Aspect of Explosive Verve",
+            "id": 60,
+            "coords": [
+                60.8,
+                -51.59
+            ],
+            "special": false
+        },
+        {
+            "name": "Cultist Refuge",
+            "type": "Dungeon",
+            "zone": "Fractured Peaks",
+            "class": "Sorcerer",
+            "aspect": "Flamewalker's Aspect",
+            "id": 61,
+            "coords": [
+                57.68,
+                -48.6
+            ],
+            "special": false
+        },
+        {
+            "name": "Maddux Watch",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Sorcerer",
+            "aspect": "Charged Aspect",
+            "id": 62,
+            "coords": [
+                69.96,
+                -24.32
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 63,
+            "coords": [
+                69.92,
+                -20.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Hive",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Necromancer",
+            "aspect": "Aspect of Swelling Curse",
+            "id": 64,
+            "coords": [
+                71.39,
+                -19.4
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 65,
+            "coords": [
+                71.48,
+                -13.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 66,
+            "coords": [
+                74.07,
+                -10.04
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 67,
+            "coords": [
+                75.3,
+                -7.43
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 68,
+            "coords": [
+                76.4,
+                -7.43
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 69,
+            "coords": [
+                73.04,
+                -20.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 70,
+            "coords": [
+                71.69,
+                -31.75
+            ],
+            "special": false
+        },
+        {
+            "name": "Under the Fat Goose Inn",
+            "type": "Waygate",
+            "zone": "Scosglen",
+            "id": 71,
+            "coords": [
+                73.19,
+                -25.86
+            ],
+            "special": false
+        },
+        {
+            "name": "Tirmair",
+            "type": "Waygate",
+            "zone": "Scosglen",
+            "id": 72,
+            "coords": [
+                75,
+                -22.13
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 73,
+            "coords": [
+                75.51,
+                -25.6
+            ],
+            "special": false
+        },
+        {
+            "name": "Oldstones",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "All",
+            "aspect": "Edgemaster's Aspect",
+            "id": 74,
+            "coords": [
+                74.37,
+                -30.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 75,
+            "coords": [
+                74.78,
+                -32.39
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 76,
+            "coords": [
+                73.3,
+                -0.13
+            ],
+            "special": false
+        },
+        {
+            "name": "Whispering Pines",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Druid",
+            "aspect": "Ballistic Aspect",
+            "id": 77,
+            "coords": [
+                73.32,
+                -1.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Jalal's Vigil",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Rogue",
+            "aspect": "Bladedancer's Aspect",
+            "id": 78,
+            "coords": [
+                78.13,
+                -5.95
+            ],
+            "special": false
+        },
+        {
+            "name": "Feral's Den",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Druid",
+            "aspect": "Aspect of Quicksand",
+            "id": 79,
+            "coords": [
+                79.08,
+                -16.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Twisted Hallow",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Rogue",
+            "aspect": "Shadowslicer Aspect",
+            "id": 80,
+            "coords": [
+                78.67,
+                -19.36
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 81,
+            "coords": [
+                78.42,
+                -19.97
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 82,
+            "coords": [
+                78.71,
+                -22.17
+            ],
+            "special": false
+        },
+        {
+            "name": "Mariner's Refuge",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Druid",
+            "aspect": "Overcharged Aspect",
+            "id": 83,
+            "coords": [
+                79.46,
+                -23.31
+            ],
+            "special": false
+        },
+        {
+            "name": "Garan Hold",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Barbarian",
+            "aspect": "Aspect of the Dire Whirlwind",
+            "id": 84,
+            "coords": [
+                77.43,
+                -27.8
+            ],
+            "special": false
+        },
+        {
+            "name": "Aldurwood",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Necromancer",
+            "aspect": "Aspect of Reanimation",
+            "id": 85,
+            "coords": [
+                76.87,
+                -24.41
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 86,
+            "coords": [
+                79.12,
+                -32.26
+            ],
+            "special": false
+        },
+        {
+            "name": "Corbach",
+            "type": "Waygate",
+            "zone": "Scosglen",
+            "id": 87,
+            "coords": [
+                77.74,
+                -34.61
+            ],
+            "special": false
+        },
+        {
+            "name": "Luban's Rest",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Rogue",
+            "aspect": "Cheat's Aspect",
+            "id": 88,
+            "coords": [
+                76.86,
+                -36.58
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 89,
+            "coords": [
+                77.06,
+                -39.97
+            ],
+            "special": false
+        },
+        {
+            "name": "Domhainne Tunnels",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Efficiency",
+            "id": 90,
+            "coords": [
+                77.66,
+                -42.25
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 91,
+            "coords": [
+                77.68,
+                -48.49
+            ],
+            "special": false
+        },
+        {
+            "name": "Raethwind Wilds",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "All",
+            "aspect": "Aspect of Inner Calm",
+            "id": 92,
+            "coords": [
+                77.68,
+                -49.24
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 93,
+            "coords": [
+                79.71,
+                -43.7
+            ],
+            "special": false
+        },
+        {
+            "name": "Vault of the Forsaken",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Necromancer",
+            "aspect": "Requiem Aspect",
+            "id": 94,
+            "coords": [
+                80.95,
+                -39.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Penitent Cairns",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Barbarian",
+            "aspect": "Death Wish Aspect",
+            "id": 95,
+            "coords": [
+                79.86,
+                -47.66
+            ],
+            "special": false
+        },
+        {
+            "name": "Sarat's Lair",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Sorcerer",
+            "aspect": "Snowveiled Aspect",
+            "id": 96,
+            "coords": [
+                71.95,
+                -45.77
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 97,
+            "coords": [
+                72.95,
+                -48.08
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 98,
+            "coords": [
+                72.97,
+                -39.75
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 99,
+            "coords": [
+                73.05,
+                -51.09
+            ],
+            "special": false
+        },
+        {
+            "name": "Cerrigar",
+            "type": "Waygate",
+            "zone": "Scosglen",
+            "id": 100,
+            "coords": [
+                75.12,
+                -53.28
+            ],
+            "special": false
+        },
+        {
+            "name": "Stockades",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Druid",
+            "aspect": "Crashstone Aspect",
+            "id": 101,
+            "coords": [
+                77.12,
+                -54.51
+            ],
+            "special": false
+        },
+        {
+            "name": "Braestaig",
+            "type": "Waygate",
+            "zone": "Scosglen",
+            "id": 102,
+            "coords": [
+                79.1,
+                -53.81
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 103,
+            "coords": [
+                81.61,
+                -48.56
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 104,
+            "coords": [
+                82.25,
+                -52.25
+            ],
+            "special": false
+        },
+        {
+            "name": "Sunken Ruins",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Barbarian",
+            "aspect": "Aspect of Ancestral Force",
+            "id": 105,
+            "coords": [
+                81.95,
+                -54.82
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 106,
+            "coords": [
+                83,
+                -60.07
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 107,
+            "coords": [
+                83.41,
+                -61.61
+            ],
+            "special": false
+        },
+        {
+            "name": "Flooded Depths",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Necromancer",
+            "aspect": "Aspect of Empowering Reaper",
+            "id": 108,
+            "coords": [
+                83.62,
+                -65.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Calibel's Mine",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Barbarian",
+            "aspect": "Aspect of the Relentless Armsmaster",
+            "id": 109,
+            "coords": [
+                81.69,
+                -64.09
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 110,
+            "coords": [
+                81.56,
+                -67.06
+            ],
+            "special": false
+        },
+        {
+            "name": "Marowen",
+            "type": "Waygate",
+            "zone": "Scosglen",
+            "id": 111,
+            "coords": [
+                80.96,
+                -75.26
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 112,
+            "coords": [
+                80.13,
+                -73.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 113,
+            "coords": [
+                78.96,
+                -79.32
+            ],
+            "special": false
+        },
+        {
+            "name": "Wretched Delve",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Static Cling",
+            "id": 114,
+            "coords": [
+                78.84,
+                -81.98
+            ],
+            "special": false
+        },
+        {
+            "name": "Howling Warren",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Rogue",
+            "aspect": "Aspect of Arrow Storms",
+            "id": 115,
+            "coords": [
+                78.66,
+                -67.43
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 116,
+            "coords": [
+                78.2,
+                -79.41
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 117,
+            "coords": [
+                77.78,
+                -65.72
+            ],
+            "special": false
+        },
+        {
+            "name": "Underroot",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "All",
+            "aspect": "Aspect of the Expectant",
+            "id": 118,
+            "coords": [
+                77.4,
+                -83.03
+            ],
+            "special": false
+        },
+        {
+            "name": "Tur Dulra",
+            "type": "Waygate",
+            "zone": "Scosglen",
+            "id": 119,
+            "coords": [
+                77.49,
+                -83.65
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 120,
+            "coords": [
+                76.53,
+                -63.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 121,
+            "coords": [
+                74.35,
+                -68.88
+            ],
+            "special": false
+        },
+        {
+            "name": "Firebreak Manor",
+            "type": "Waygate",
+            "zone": "Scosglen",
+            "id": 122,
+            "coords": [
+                73.19,
+                -61.06
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 123,
+            "coords": [
+                75.14,
+                -91.96
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 124,
+            "coords": [
+                75.87,
+                -78.27
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 125,
+            "coords": [
+                72.45,
+                -75.89
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Scosglen",
+            "id": 126,
+            "coords": [
+                71.36,
+                -65.85
+            ],
+            "special": false
+        },
+        {
+            "name": "Demon's Wake",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "Rogue",
+            "aspect": "Aspect of Uncanny Treachery",
+            "id": 127,
+            "coords": [
+                72.02,
+                -59.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Broken Bulwark",
+            "type": "Dungeon",
+            "zone": "Scosglen",
+            "class": "All",
+            "aspect": "Ghostwalker Aspect",
+            "id": 128,
+            "coords": [
+                70.51,
+                -61.81
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 129,
+            "coords": [
+                75.09,
+                -96.19
+            ],
+            "special": false
+        },
+        {
+            "name": "Farobru",
+            "type": "Waygate",
+            "zone": "Dry Steppes",
+            "id": 130,
+            "coords": [
+                73.06,
+                -85.32
+            ],
+            "special": false
+        },
+        {
+            "name": "Dark Ravine",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "All",
+            "aspect": "Aspect of Might",
+            "id": 131,
+            "coords": [
+                71.54,
+                -92.79
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 132,
+            "coords": [
+                70.69,
+                -90.44
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 133,
+            "coords": [
+                69.95,
+                -94.79
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 134,
+            "coords": [
+                69.38,
+                -92.7
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 135,
+            "coords": [
+                68.77,
+                -86.2
+            ],
+            "special": false
+        },
+        {
+            "name": "Path of the Blind",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Necromancer",
+            "aspect": "Aspect of Bursting Bones",
+            "id": 136,
+            "coords": [
+                71.71,
+                -78.16
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 137,
+            "coords": [
+                71.06,
+                -81.89
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 138,
+            "coords": [
+                68.27,
+                -68.31
+            ],
+            "special": false
+        },
+        {
+            "name": "Fate's Retreat",
+            "type": "Waygate",
+            "zone": "Dry Steppes",
+            "id": 139,
+            "coords": [
+                66.58,
+                -74.77
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 140,
+            "coords": [
+                63.6,
+                -72.62
+            ],
+            "special": true
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 141,
+            "coords": [
+                64.45,
+                -65.76
+            ],
+            "special": false
+        },
+        {
+            "name": "Whispering Vault",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Rogue",
+            "aspect": "Aspect of Unstable Imbuements",
+            "id": 142,
+            "coords": [
+                61.35,
+                -59.83
+            ],
+            "special": false
+        },
+        {
+            "name": "Hidden Overlook",
+            "type": "Waygate",
+            "zone": "Dry Steppes",
+            "id": 143,
+            "coords": [
+                60.78,
+                -74.47
+            ],
+            "special": false
+        },
+        {
+            "name": "Betrayer's Row",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Necromancer",
+            "aspect": "Aspect of Potent Blood",
+            "id": 144,
+            "coords": [
+                53.46,
+                -61.9
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 145,
+            "coords": [
+                55.18,
+                -69.59
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 146,
+            "coords": [
+                48.46,
+                -72.27
+            ],
+            "special": false
+        },
+        {
+            "name": "Ruins of Qara-Yisu",
+            "type": "Waygate",
+            "zone": "Dry Steppes",
+            "id": 147,
+            "coords": [
+                50.21,
+                -75.74
+            ],
+            "special": false
+        },
+        {
+            "name": "Shifting City",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Rogue",
+            "aspect": "Ravenous Aspect",
+            "id": 148,
+            "coords": [
+                52.51,
+                -73.63
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 149,
+            "coords": [
+                56.29,
+                -76.75
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 150,
+            "coords": [
+                57.76,
+                -75.32
+            ],
+            "special": false
+        },
+        {
+            "name": "Buried Halls",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "All",
+            "aspect": "Rapid Aspect",
+            "id": 151,
+            "coords": [
+                57.44,
+                -77.72
+            ],
+            "special": false
+        },
+        {
+            "name": "Guulrahan Canals",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Rogue",
+            "aspect": "Trickster's Aspect",
+            "id": 152,
+            "coords": [
+                60.48,
+                -78.35
+            ],
+            "special": false
+        },
+        {
+            "name": "Guulrahan Slums",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Necromancer",
+            "aspect": "Splintering Aspect",
+            "id": 153,
+            "coords": [
+                61.14,
+                -75.45
+            ],
+            "special": false
+        },
+        {
+            "name": "Ancient's Lament",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Rogue",
+            "aspect": "Aspect of Volatile Shadows",
+            "id": 154,
+            "coords": [
+                57.54,
+                -83.17
+            ],
+            "special": false
+        },
+        {
+            "name": "Pallid Delve",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Sorcerer",
+            "aspect": "Elementalist's Aspect",
+            "id": 155,
+            "coords": [
+                49.44,
+                -70.75
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 156,
+            "coords": [
+                58.56,
+                -82.46
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 157,
+            "coords": [
+                61.21,
+                -84.4
+            ],
+            "special": false
+        },
+        {
+            "name": "Grinning Labyrinth",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Druid",
+            "aspect": "Aspect of the Calm Breeze",
+            "id": 158,
+            "coords": [
+                64.61,
+                -81.1
+            ],
+            "special": false
+        },
+        {
+            "name": "Mournfield",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Barbarian",
+            "aspect": "Aspect of Berserk Ripping",
+            "id": 159,
+            "coords": [
+                66.67,
+                -86.02
+            ],
+            "special": false
+        },
+        {
+            "name": "The Onyx Watchtower",
+            "type": "Waygate",
+            "zone": "Dry Steppes",
+            "id": 160,
+            "coords": [
+                65.77,
+                -93.49
+            ],
+            "special": false
+        },
+        {
+            "name": "Onyx Hold",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Sorcerer",
+            "aspect": "Storm Swell Aspect",
+            "id": 161,
+            "coords": [
+                65.91,
+                -94.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 162,
+            "coords": [
+                64.54,
+                -92.5
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 163,
+            "coords": [
+                65.05,
+                -97.36
+            ],
+            "special": false
+        },
+        {
+            "name": "Ked Bardu",
+            "type": "Waygate",
+            "zone": "Dry Steppes",
+            "id": 164,
+            "coords": [
+                70.54,
+                -102.63
+            ],
+            "special": false
+        },
+        {
+            "name": "Seaside Descent",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Druid",
+            "aspect": "Aspect of Retaliation",
+            "id": 165,
+            "coords": [
+                70.54,
+                -112.3
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 166,
+            "coords": [
+                69.67,
+                -109.31
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 167,
+            "coords": [
+                67.78,
+                -100.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 168,
+            "coords": [
+                68.51,
+                -123.51
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 169,
+            "coords": [
+                66.16,
+                -112.39
+            ],
+            "special": false
+        },
+        {
+            "name": "Forgotten Depths",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Biting Cold",
+            "id": 170,
+            "coords": [
+                65.64,
+                -104.92
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 171,
+            "coords": [
+                65.64,
+                -102.15
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 172,
+            "coords": [
+                62.92,
+                -106.94
+            ],
+            "special": true
+        },
+        {
+            "name": "Carrion Fields",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Barbarian",
+            "aspect": "Aspect of the Iron Warrior",
+            "id": 173,
+            "coords": [
+                64.96,
+                -126.15
+            ],
+            "special": false
+        },
+        {
+            "name": "Komdor Temple",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Sorcerer",
+            "aspect": "Aspect of the Bounding Conduit",
+            "id": 174,
+            "coords": [
+                58.77,
+                -137.15
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 175,
+            "coords": [
+                63.57,
+                -121.75
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 176,
+            "coords": [
+                63.17,
+                -136.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 177,
+            "coords": [
+                57.14,
+                -135.42
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 178,
+            "coords": [
+                61.48,
+                -89.93
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 179,
+            "coords": [
+                60.04,
+                -96.79
+            ],
+            "special": false
+        },
+        {
+            "name": "Bloodsoaked Crag",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Druid",
+            "aspect": "Shepherd's Aspect",
+            "id": 180,
+            "coords": [
+                58.29,
+                -93.01
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 181,
+            "coords": [
+                54.88,
+                -96.44
+            ],
+            "special": false
+        },
+        {
+            "name": "Sealed Archives",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Druid",
+            "aspect": "Aspect of Mending Stone",
+            "id": 182,
+            "coords": [
+                54.01,
+                -96.44
+            ],
+            "special": false
+        },
+        {
+            "name": "Champion's Demise",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "All",
+            "aspect": "Aspect of the Umbral",
+            "id": 183,
+            "coords": [
+                49.7,
+                -89.36
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 184,
+            "coords": [
+                50.43,
+                -95.65
+            ],
+            "special": false
+        },
+        {
+            "name": "Charnel House",
+            "type": "Dungeon",
+            "zone": "Dry Steppes",
+            "class": "Barbarian",
+            "aspect": "Aspect of Perpetual Stomping",
+            "id": 185,
+            "coords": [
+                52.13,
+                -100.83
+            ],
+            "special": false
+        },
+        {
+            "name": "Alzuuda",
+            "type": "Waygate",
+            "zone": "Dry Steppes",
+            "id": 186,
+            "coords": [
+                57.4,
+                -126.45
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 187,
+            "coords": [
+                54.85,
+                -125.16
+            ],
+            "special": true
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 188,
+            "coords": [
+                56.38,
+                -104.66
+            ],
+            "special": true
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Dry Steppes",
+            "id": 189,
+            "coords": [
+                51.34,
+                -109.62
+            ],
+            "special": false
+        },
+        {
+            "name": "Jirandai",
+            "type": "Waygate",
+            "zone": "Dry Steppes",
+            "id": 190,
+            "coords": [
+                46.86,
+                -102.81
+            ],
+            "special": false
+        },
+        {
+            "name": "Sepulcher of the Forsworn",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Necromancer",
+            "aspect": "Hulking Aspect",
+            "id": 191,
+            "coords": [
+                50.21,
+                -126.06
+            ],
+            "special": false
+        },
+        {
+            "name": "Tombs of the Saints",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Sorcerer",
+            "aspect": "Incendiary Aspect",
+            "id": 192,
+            "coords": [
+                50.15,
+                -136.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 193,
+            "coords": [
+                48.95,
+                -138.36
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 194,
+            "coords": [
+                47.34,
+                -124.74
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Ruin",
+            "type": "Waygate",
+            "zone": "Kehjistan",
+            "id": 195,
+            "coords": [
+                46.29,
+                -126.28
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 196,
+            "coords": [
+                49.75,
+                -115.82
+            ],
+            "special": false
+        },
+        {
+            "name": "Shivta Ruins",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "All",
+            "aspect": "Wind Striker Aspect",
+            "id": 197,
+            "coords": [
+                47.78,
+                -119.29
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 198,
+            "coords": [
+                42,
+                -139.99
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 199,
+            "coords": [
+                42.46,
+                -125.18
+            ],
+            "special": false
+        },
+        {
+            "name": "Collapsed Vault",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Druid",
+            "aspect": "Aspect of Cyclonic Force",
+            "id": 200,
+            "coords": [
+                39.98,
+                -113.49
+            ],
+            "special": false
+        },
+        {
+            "name": "Sunken Library",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Control",
+            "id": 201,
+            "coords": [
+                38.27,
+                -128.83
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 202,
+            "coords": [
+                36.67,
+                -129.22
+            ],
+            "special": false
+        },
+        {
+            "name": "Imperial Library",
+            "type": "Waygate",
+            "zone": "Kehjistan",
+            "id": 203,
+            "coords": [
+                36.32,
+                -124.74
+            ],
+            "special": false
+        },
+        {
+            "name": "Yshari Sanctum",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "All",
+            "aspect": "Needleflare Aspect",
+            "id": 204,
+            "coords": [
+                36.32,
+                -123.55
+            ],
+            "special": false
+        },
+        {
+            "name": "Iron Wolves Encampment",
+            "type": "Waygate",
+            "zone": "Kehjistan",
+            "id": 205,
+            "coords": [
+                34.85,
+                -132.91
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 206,
+            "coords": [
+                32.4,
+                -130.69
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 207,
+            "coords": [
+                37.96,
+                -148.51
+            ],
+            "special": false
+        },
+        {
+            "name": "Forgotten Ruins",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Barbarian",
+            "aspect": "Iron Blood Aspect",
+            "id": 208,
+            "coords": [
+                33.8,
+                -142.4
+            ],
+            "special": false
+        },
+        {
+            "name": "Heretics Asylum",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Barbarian",
+            "aspect": "Veteran Brawler's Aspect",
+            "id": 209,
+            "coords": [
+                26.31,
+                -156.91
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 210,
+            "coords": [
+                27.24,
+                -151.66
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 211,
+            "coords": [
+                24.79,
+                -146.84
+            ],
+            "special": false
+        },
+        {
+            "name": "Uldur's Cave",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Necromancer",
+            "aspect": "Aspect of the Damned",
+            "id": 212,
+            "coords": [
+                30.33,
+                -141.35
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 213,
+            "coords": [
+                30.9,
+                -138.05
+            ],
+            "special": false
+        },
+        {
+            "name": "Corrupted Grotto",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Necromancer",
+            "aspect": "Aspect of Grasping Veins",
+            "id": 214,
+            "coords": [
+                22.92,
+                -141.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Crusader's Cathedral",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Druid",
+            "aspect": "Stormshifter's Aspect",
+            "id": 215,
+            "coords": [
+                32.03,
+                -121.05
+            ],
+            "special": false
+        },
+        {
+            "name": "Putrid Aquifer",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Sorcerer",
+            "aspect": "Aspect of the Unwavering",
+            "id": 216,
+            "coords": [
+                30.37,
+                -131.24
+            ],
+            "special": false
+        },
+        {
+            "name": "Prison of Caldeum",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Rogue",
+            "aspect": "Opportunist's Aspect",
+            "id": 217,
+            "coords": [
+                25.96,
+                -125.97
+            ],
+            "special": false
+        },
+        {
+            "name": "Renegade's Retreat",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Rogue",
+            "aspect": "Aspect of Corruption",
+            "id": 218,
+            "coords": [
+                27.37,
+                -113.23
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 219,
+            "coords": [
+                27.29,
+                -111.47
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 220,
+            "coords": [
+                19.48,
+                -114.72
+            ],
+            "special": false
+        },
+        {
+            "name": "Deserted Underpass",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Necromancer",
+            "aspect": "Torturous Aspect",
+            "id": 221,
+            "coords": [
+                17.56,
+                -121.79
+            ],
+            "special": false
+        },
+        {
+            "name": "Conclave",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Druid",
+            "aspect": "Aspect of the Changeling's Debt",
+            "id": 222,
+            "coords": [
+                20.47,
+                -128.03
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 223,
+            "coords": [
+                20.22,
+                -134.45
+            ],
+            "special": false
+        },
+        {
+            "name": "Gea Kul",
+            "type": "Waygate",
+            "zone": "Kehjistan",
+            "id": 224,
+            "coords": [
+                10.36,
+                -144.82
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 225,
+            "coords": [
+                14.39,
+                -139.15
+            ],
+            "special": false
+        },
+        {
+            "name": "Hakan's Refuge",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Barbarian",
+            "aspect": "Relentless Berserker's Aspect",
+            "id": 226,
+            "coords": [
+                13.33,
+                -135.9
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 227,
+            "coords": [
+                13.15,
+                -131.46
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 228,
+            "coords": [
+                3.56,
+                -137.22
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 229,
+            "coords": [
+                6.62,
+                -127.81
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 230,
+            "coords": [
+                10.14,
+                -124.08
+            ],
+            "special": false
+        },
+        {
+            "name": "Crumbling Hekma",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Splintering Energy",
+            "id": 231,
+            "coords": [
+                11.57,
+                -122.76
+            ],
+            "special": false
+        },
+        {
+            "name": "Denshar",
+            "type": "Waygate",
+            "zone": "Kehjistan",
+            "id": 232,
+            "coords": [
+                16.26,
+                -115.91
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 233,
+            "coords": [
+                5.75,
+                -112.13
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 234,
+            "coords": [
+                6.45,
+                -108.3
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 235,
+            "coords": [
+                17.6,
+                -111.42
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 236,
+            "coords": [
+                30.03,
+                -107.2
+            ],
+            "special": false
+        },
+        {
+            "name": "Abandoned Mineworks",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "All",
+            "aspect": "Aspect of Retribution",
+            "id": 237,
+            "coords": [
+                21.04,
+                -98.85
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 238,
+            "coords": [
+                20.34,
+                -99.6
+            ],
+            "special": false
+        },
+        {
+            "name": "Inferno",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Rogue",
+            "aspect": "Vengeful Aspect",
+            "id": 239,
+            "coords": [
+                45.89,
+                -105.89
+            ],
+            "special": false
+        },
+        {
+            "name": "Sirocco Caverns",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Barbarian",
+            "aspect": "Aspect of Echoing Fury",
+            "id": 240,
+            "coords": [
+                43.96,
+                -97.05
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 241,
+            "coords": [
+                42.71,
+                -107.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 242,
+            "coords": [
+                38.99,
+                -100.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 243,
+            "coords": [
+                37.47,
+                -108.87
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 244,
+            "coords": [
+                38.24,
+                -93.89
+            ],
+            "special": false
+        },
+        {
+            "name": "Tarsarak",
+            "type": "Waygate",
+            "zone": "Kehjistan",
+            "id": 245,
+            "coords": [
+                30.33,
+                -88.44
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 246,
+            "coords": [
+                32.51,
+                -82.77
+            ],
+            "special": false
+        },
+        {
+            "name": "Halls of the Damned",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "All",
+            "aspect": "Aspect of Disobedience",
+            "id": 247,
+            "coords": [
+                33.69,
+                -74.25
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 248,
+            "coords": [
+                35.25,
+                -73.54
+            ],
+            "special": false
+        },
+        {
+            "name": "Fading Echo",
+            "type": "Dungeon",
+            "zone": "Kehjistan",
+            "class": "Druid",
+            "aspect": "Skinwalker's Aspect",
+            "id": 249,
+            "coords": [
+                44.59,
+                -64.93
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Kehjistan",
+            "id": 250,
+            "coords": [
+                45,
+                -81.85
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 251,
+            "coords": [
+                15.07,
+                -83.21
+            ],
+            "special": false
+        },
+        {
+            "name": "Earthen Wound",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Singed Extremities",
+            "id": 252,
+            "coords": [
+                9.97,
+                -78.46
+            ],
+            "special": false
+        },
+        {
+            "name": "Zarbinzet",
+            "type": "Waygate",
+            "zone": "Hawezar",
+            "id": 253,
+            "coords": [
+                14.86,
+                -71.56
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 254,
+            "coords": [
+                22.43,
+                -71.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 255,
+            "coords": [
+                15.03,
+                -62.51
+            ],
+            "special": false
+        },
+        {
+            "name": "Endless Gates",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Druid",
+            "aspect": "Aspect of the Rampaging Werebeast",
+            "id": 256,
+            "coords": [
+                26.59,
+                -68.71
+            ],
+            "special": false
+        },
+        {
+            "name": "Lost Keep",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "All",
+            "aspect": "Aspect of the Deflecting Barrier",
+            "id": 257,
+            "coords": [
+                28.15,
+                -73.59
+            ],
+            "special": false
+        },
+        {
+            "name": "Bastion of Faith",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Rogue",
+            "aspect": "Trickshot Aspect",
+            "id": 258,
+            "coords": [
+                30.37,
+                -68.44
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 259,
+            "coords": [
+                4.87,
+                -76
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 260,
+            "coords": [
+                35.53,
+                -69.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 261,
+            "coords": [
+                -1.89,
+                -56.98
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 262,
+            "coords": [
+                6.49,
+                -54.87
+            ],
+            "special": false
+        },
+        {
+            "name": "Blind Burrows",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Druid",
+            "aspect": "Aspect of the Tempest",
+            "id": 263,
+            "coords": [
+                12.04,
+                -52.36
+            ],
+            "special": false
+        },
+        {
+            "name": "Ruins of Eridu",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Necromancer",
+            "aspect": "Sacrificial Aspect",
+            "id": 264,
+            "coords": [
+                4.57,
+                -47.88
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 265,
+            "coords": [
+                -2.55,
+                -44.67
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 266,
+            "coords": [
+                2.64,
+                -44.01
+            ],
+            "special": false
+        },
+        {
+            "name": "Vyeresz",
+            "type": "Waygate",
+            "zone": "Hawezar",
+            "id": 267,
+            "coords": [
+                4.13,
+                -39.62
+            ],
+            "special": false
+        },
+        {
+            "name": "Leviathan's Maw",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Rogue",
+            "aspect": "Aspect of Siphoned Victuals",
+            "id": 268,
+            "coords": [
+                -5.35,
+                -38.78
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 269,
+            "coords": [
+                12.73,
+                -45.77
+            ],
+            "special": false
+        },
+        {
+            "name": "Maugan's Works",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Barbarian",
+            "aspect": "Earthstriker's Aspect",
+            "id": 270,
+            "coords": [
+                14.69,
+                -43.26
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 271,
+            "coords": [
+                5.27,
+                -35.22
+            ],
+            "special": false
+        },
+        {
+            "name": "Witchwater",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Sorcerer",
+            "aspect": "Prodigy's Aspect",
+            "id": 272,
+            "coords": [
+                9.75,
+                -32.76
+            ],
+            "special": false
+        },
+        {
+            "name": "Shadowed Plunge",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Rogue",
+            "aspect": "Aspect of Branching Volleys",
+            "id": 273,
+            "coords": [
+                8.58,
+                -35.99
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 274,
+            "coords": [
+                1.76,
+                -30.39
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 275,
+            "coords": [
+                -3.82,
+                -31.66
+            ],
+            "special": false
+        },
+        {
+            "name": "Ghoa Ruins",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Rogue",
+            "aspect": "Enshrouding Aspect",
+            "id": 276,
+            "coords": [
+                -5.79,
+                -30.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 277,
+            "coords": [
+                -6.01,
+                -10
+            ],
+            "special": false
+        },
+        {
+            "name": "Faceless Shrine",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Necromancer",
+            "aspect": "Unyielding Commander's Aspect",
+            "id": 278,
+            "coords": [
+                1.27,
+                -15.31
+            ],
+            "special": false
+        },
+        {
+            "name": "Belfry Zakara",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Druid",
+            "aspect": "Aspect of the Ursine Horror",
+            "id": 279,
+            "coords": [
+                16,
+                -0.44
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 280,
+            "coords": [
+                2.94,
+                -18.74
+            ],
+            "special": false
+        },
+        {
+            "name": "Backwater",
+            "type": "Waygate",
+            "zone": "Hawezar",
+            "id": 281,
+            "coords": [
+                4.61,
+                -5.91
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 282,
+            "coords": [
+                12.55,
+                -14.7
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 283,
+            "coords": [
+                17.77,
+                2.35
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 284,
+            "coords": [
+                32.18,
+                1.65
+            ],
+            "special": false
+        },
+        {
+            "name": "Ancient Reservoir",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Barbarian",
+            "aspect": "Aspect of Ancestral Echoes",
+            "id": 285,
+            "coords": [
+                33.98,
+                -8.06
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 286,
+            "coords": [
+                31.05,
+                -15.75
+            ],
+            "special": false
+        },
+        {
+            "name": "Haunted Refuge",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Barbarian",
+            "aspect": "Brawler's Aspect",
+            "id": 287,
+            "coords": [
+                26.98,
+                -13.69
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 288,
+            "coords": [
+                24.53,
+                -11.93
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 289,
+            "coords": [
+                27.84,
+                -22.21
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 290,
+            "coords": [
+                11.74,
+                -22.96
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 291,
+            "coords": [
+                18.94,
+                -28.06
+            ],
+            "special": false
+        },
+        {
+            "name": "Serpent's Lair",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Sorcerer",
+            "aspect": "Aspect of Three Curses",
+            "id": 292,
+            "coords": [
+                19.02,
+                -30.12
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 293,
+            "coords": [
+                18.85,
+                -42.43
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 294,
+            "coords": [
+                28.92,
+                -40.54
+            ],
+            "special": false
+        },
+        {
+            "name": "Ruins of Rakhat Keep: Inner Court",
+            "type": "Waygate",
+            "zone": "Hawezar",
+            "id": 295,
+            "coords": [
+                25.68,
+                -39.09
+            ],
+            "special": false
+        },
+        {
+            "name": "Steadfast Barracks",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Druid",
+            "aspect": "Vigorous Aspect",
+            "id": 296,
+            "coords": [
+                25.96,
+                -40.01
+            ],
+            "special": false
+        },
+        {
+            "name": "Iron Hold",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Necromancer",
+            "aspect": "Fastblood Aspect",
+            "id": 297,
+            "coords": [
+                27.84,
+                -38.21
+            ],
+            "special": false
+        },
+        {
+            "name": "Akkhan's Grasp",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Necromancer",
+            "aspect": "Blighted Aspect",
+            "id": 298,
+            "coords": [
+                26.71,
+                -41.24
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 299,
+            "coords": [
+                31.09,
+                -30.52
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 300,
+            "coords": [
+                31.62,
+                -39.31
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 301,
+            "coords": [
+                36.77,
+                -31.09
+            ],
+            "special": false
+        },
+        {
+            "name": "Wejinhani",
+            "type": "Waygate",
+            "zone": "Hawezar",
+            "id": 302,
+            "coords": [
+                38.55,
+                -47.35
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 303,
+            "coords": [
+                42.42,
+                -47.79
+            ],
+            "special": false
+        },
+        {
+            "name": "Light's Refuge",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Barbarian",
+            "aspect": "Aspect of Bul-Kathos",
+            "id": 304,
+            "coords": [
+                43.64,
+                -49.68
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 305,
+            "coords": [
+                46.13,
+                -34.52
+            ],
+            "special": false
+        },
+        {
+            "name": "Heathen's Keep",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Barbarian",
+            "aspect": "Aspect of Numbing Wrath",
+            "id": 306,
+            "coords": [
+                43.71,
+                -40.89
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 307,
+            "coords": [
+                45.98,
+                -26.65
+            ],
+            "special": false
+        },
+        {
+            "name": "Oblivion",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "All",
+            "aspect": "Aspect of Shared Misery",
+            "id": 308,
+            "coords": [
+                45.37,
+                -27.31
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 309,
+            "coords": [
+                39.27,
+                -21.07
+            ],
+            "special": false
+        },
+        {
+            "name": "Fetid Mausoleum",
+            "type": "Dungeon",
+            "zone": "Hawezar",
+            "class": "Sorcerer",
+            "aspect": "Snowguard's Aspect",
+            "id": 310,
+            "coords": [
+                43.52,
+                -19.62
+            ],
+            "special": false
+        },
+        {
+            "name": "The Tree of Whispers",
+            "type": "Waygate",
+            "zone": "Hawezar",
+            "id": 311,
+            "coords": [
+                41.08,
+                -11.23
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 312,
+            "coords": [
+                38.99,
+                -11.98
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Lilith",
+            "type": "Altar of Lilith",
+            "zone": "Hawezar",
+            "id": 313,
+            "coords": [
+                41.9,
+                -14.7
+            ],
+            "special": false
+        },
+        {
+            "name": "Blood Sermon",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 314,
+            "coords": [
+                66.71,
+                0.48
+            ],
+            "special": false
+        },
+        {
+            "name": "The Beast's Challenge",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 315,
+            "coords": [
+                63.55,
+                -11
+            ],
+            "special": false
+        },
+        {
+            "name": "Call of the Ancients",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 316,
+            "coords": [
+                64.34,
+                -11.07
+            ],
+            "special": false
+        },
+        {
+            "name": "Hammer of the Champion",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 317,
+            "coords": [
+                63.65,
+                -10.9
+            ],
+            "special": false
+        },
+        {
+            "name": "Gory Display",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 318,
+            "coords": [
+                62.1,
+                -12.35
+            ],
+            "special": false,
+            "extra": "Kill an Ice Clan Impaler for item drop"
+        },
+        {
+            "name": "Exorcist's Cache",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 319,
+            "coords": [
+                65.78,
+                -22.72
+            ],
+            "special": false,
+            "extra": "Kill Undead for item drop"
+        },
+        {
+            "name": "The Dread Martyr",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 320,
+            "coords": [
+                63.09,
+                -18.76
+            ],
+            "special": false
+        },
+        {
+            "name": "Cries of Innocence",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 321,
+            "coords": [
+                61.16,
+                -24.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Secret of the Spring",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 322,
+            "coords": [
+                64.36,
+                -28.56
+            ],
+            "special": false,
+            "extra": "Emote \"Wait\" at pond"
+        },
+        {
+            "name": "Sight to Madness",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 323,
+            "coords": [
+                60.65,
+                -32.96
+            ],
+            "special": false
+        },
+        {
+            "name": "Raising Spirits",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 324,
+            "coords": [
+                60.11,
+                -30.15
+            ],
+            "special": false
+        },
+        {
+            "name": "Menestad Coffers",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 325,
+            "coords": [
+                59.58,
+                -32.83
+            ],
+            "special": false
+        },
+        {
+            "name": "Faith in Blood",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 326,
+            "coords": [
+                59.58,
+                -31.2
+            ],
+            "special": false
+        },
+        {
+            "name": "The Sealed Door",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 327,
+            "coords": [
+                59.22,
+                -29.93
+            ],
+            "special": false
+        },
+        {
+            "name": "Depths of Despair",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 328,
+            "coords": [
+                58.7,
+                -30.06
+            ],
+            "special": false
+        },
+        {
+            "name": "Malady of the Soul",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 329,
+            "coords": [
+                59.02,
+                -31.73
+            ],
+            "special": false
+        },
+        {
+            "name": "Frostbloom",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 330,
+            "coords": [
+                58.59,
+                -32.83
+            ],
+            "special": false,
+            "extra": "Loot herbs"
+        },
+        {
+            "name": "A Cold Faith",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 331,
+            "coords": [
+                60.04,
+                -24.7
+            ],
+            "special": false
+        },
+        {
+            "name": "Better Days",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 332,
+            "coords": [
+                50.85,
+                -26.46
+            ],
+            "special": false,
+            "extra": "Loot the chest"
+        },
+        {
+            "name": "Bound By Blood",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 333,
+            "coords": [
+                50.37,
+                -35.51
+            ],
+            "special": false
+        },
+        {
+            "name": "The Cleansing Flame",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 334,
+            "coords": [
+                49.81,
+                -35.55
+            ],
+            "special": false
+        },
+        {
+            "name": "Unyielding Flesh",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 335,
+            "coords": [
+                48.98,
+                -14.24
+            ],
+            "special": false
+        },
+        {
+            "name": "Traveler's Prayer",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 336,
+            "coords": [
+                49.3,
+                -14.63
+            ],
+            "special": false
+        },
+        {
+            "name": "Righteous Idol",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 337,
+            "coords": [
+                49.7,
+                -15.03
+            ],
+            "special": false,
+            "extra": "Unlocks after campaign"
+        },
+        {
+            "name": "Ravenous Dead",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 338,
+            "coords": [
+                49.98,
+                -16.61
+            ],
+            "special": false
+        },
+        {
+            "name": "The Woodsman of Nevesk",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 339,
+            "coords": [
+                50.21,
+                -48.91
+            ],
+            "special": false
+        },
+        {
+            "name": "Hungering Bone Cache",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 340,
+            "coords": [
+                54.55,
+                -51.64
+            ],
+            "special": false,
+            "extra": "Loot body"
+        },
+        {
+            "name": "Forgive Me",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 341,
+            "coords": [
+                69.61,
+                -31.6
+            ],
+            "special": false,
+            "extra": "Drop in Kor Dragan Barracks"
+        },
+        {
+            "name": "Chain of Possession",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 342,
+            "coords": [
+                65.69,
+                -44.91
+            ],
+            "special": false
+        },
+        {
+            "name": "Legacy Unmade",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 343,
+            "coords": [
+                65.42,
+                -44.96
+            ],
+            "special": false
+        },
+        {
+            "name": "Gold Well Spent",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 344,
+            "coords": [
+                64.98,
+                -43.29
+            ],
+            "special": false
+        },
+        {
+            "name": "Legacies of Light's Watch",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 345,
+            "coords": [
+                50.54,
+                -34.85
+            ],
+            "special": false
+        },
+        {
+            "name": "Shattered Tribute",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 346,
+            "coords": [
+                63.35,
+                -9.93
+            ],
+            "special": false
+        },
+        {
+            "name": "Unwritten End",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 347,
+            "coords": [
+                50.01,
+                -25.84
+            ],
+            "special": false,
+            "extra": "Kill Bandits for item drop"
+        },
+        {
+            "name": "The Bear of Blackweald",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 348,
+            "coords": [
+                73.2,
+                -4.17
+            ],
+            "special": false,
+            "extra": "Chain quest"
+        },
+        {
+            "name": "Claws at the Throat",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 349,
+            "coords": [
+                72.28,
+                -28.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Remembering the Goose",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 350,
+            "coords": [
+                73.63,
+                -26.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Wagered Honor",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 351,
+            "coords": [
+                73.78,
+                -25.49
+            ],
+            "special": false
+        },
+        {
+            "name": "Settling the Tab",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 352,
+            "coords": [
+                75.07,
+                -20.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Of Pests and Pestilence",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 353,
+            "coords": [
+                75.63,
+                -22.06
+            ],
+            "special": false
+        },
+        {
+            "name": "An Acquired Taste",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 354,
+            "coords": [
+                75.5,
+                -20.74
+            ],
+            "special": false
+        },
+        {
+            "name": "Ever Faithful",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 355,
+            "coords": [
+                74.16,
+                -37.53
+            ],
+            "special": false
+        },
+        {
+            "name": "With Fangs Bared",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 356,
+            "coords": [
+                74.25,
+                -36.78
+            ],
+            "special": false
+        },
+        {
+            "name": "The Wrong Hands",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 357,
+            "coords": [
+                77.49,
+                -8.35
+            ],
+            "special": false,
+            "extra": "Quest Chain & Item drop"
+        },
+        {
+            "name": "The Snare",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 358,
+            "coords": [
+                72.4,
+                -44.17
+            ],
+            "special": false
+        },
+        {
+            "name": "Feral Moon",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 359,
+            "coords": [
+                73.57,
+                -44.82
+            ],
+            "special": false
+        },
+        {
+            "name": "Fields of Ruin",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 360,
+            "coords": [
+                76.09,
+                -43.64
+            ],
+            "special": false
+        },
+        {
+            "name": "Daughter of the Oak",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 361,
+            "coords": [
+                75.96,
+                -50.76
+            ],
+            "special": false
+        },
+        {
+            "name": "Blood of Brigands",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 362,
+            "coords": [
+                75.48,
+                -51.06
+            ],
+            "special": false
+        },
+        {
+            "name": "The Seer",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 363,
+            "coords": [
+                76.84,
+                -38.19
+            ],
+            "special": false
+        },
+        {
+            "name": "Smoke Signals",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 364,
+            "coords": [
+                78.25,
+                -35.24
+            ],
+            "special": false
+        },
+        {
+            "name": "Message in a Bottle",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 365,
+            "coords": [
+                79.09,
+                -27.55
+            ],
+            "special": false,
+            "extra": "Interaction near shoreline"
+        },
+        {
+            "name": "The Starving Strand",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 366,
+            "coords": [
+                79.11,
+                -52.6
+            ],
+            "special": false
+        },
+        {
+            "name": "Votive Passing",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 367,
+            "coords": [
+                79.42,
+                -53
+            ],
+            "special": false
+        },
+        {
+            "name": "Stolen Artifice",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 368,
+            "coords": [
+                79.59,
+                -52.82
+            ],
+            "special": false
+        },
+        {
+            "name": "Ravenous Predator's Offering",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 369,
+            "coords": [
+                81.11,
+                -49.09
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "What Ails Thee",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 370,
+            "coords": [
+                75.29,
+                -51.55
+            ],
+            "special": false
+        },
+        {
+            "name": "The Fledgling Merchant",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 371,
+            "coords": [
+                75.72,
+                -55.28
+            ],
+            "special": false
+        },
+        {
+            "name": "Braega's Chronicles",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 372,
+            "coords": [
+                72.72,
+                -23.51
+            ],
+            "special": false,
+            "extra": "Kill Goatmen for item drop"
+        },
+        {
+            "name": "Chronicling the Old Ways",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 373,
+            "coords": [
+                71.62,
+                -63.98
+            ],
+            "special": false
+        },
+        {
+            "name": "The Traveling Scholar",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 374,
+            "coords": [
+                74.41,
+                -82.88
+            ],
+            "special": false
+        },
+        {
+            "name": "Tending Nature",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 375,
+            "coords": [
+                77.74,
+                -85.39
+            ],
+            "special": false
+        },
+        {
+            "name": "Left in Ashes",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 376,
+            "coords": [
+                77.75,
+                -82.49
+            ],
+            "special": false
+        },
+        {
+            "name": "The Diviner",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 377,
+            "coords": [
+                77.69,
+                -83.1
+            ],
+            "special": false
+        },
+        {
+            "name": "The Old Ways",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 378,
+            "coords": [
+                77.85,
+                -71.85
+            ],
+            "special": false
+        },
+        {
+            "name": "Warded Sailor's Vessel",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 379,
+            "coords": [
+                82.47,
+                -53.26
+            ],
+            "special": false,
+            "extra": "Interact with dead bodies along coast"
+        },
+        {
+            "name": "A Briny Fate",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 380,
+            "coords": [
+                81.01,
+                -77.78
+            ],
+            "special": false
+        },
+        {
+            "name": "Stemming the Tide",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 381,
+            "coords": [
+                81.17,
+                -74.88
+            ],
+            "special": false
+        },
+        {
+            "name": "A Sodden Pact",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 382,
+            "coords": [
+                80.33,
+                -65.39
+            ],
+            "special": false
+        },
+        {
+            "name": "Whispers from Below",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 383,
+            "coords": [
+                80.94,
+                -68.33
+            ],
+            "special": false
+        },
+        {
+            "name": "A Deepening Shadow",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 384,
+            "coords": [
+                77.86,
+                -72.38
+            ],
+            "special": false
+        },
+        {
+            "name": "A Different Beast",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 385,
+            "coords": [
+                77.84,
+                -8.04
+            ],
+            "special": false,
+            "extra": "Quest chain & Item drop"
+        },
+        {
+            "name": "A Plea for Aid",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 386,
+            "coords": [
+                73.71,
+                -61.61
+            ],
+            "special": false
+        },
+        {
+            "name": "A Sliver of Light",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 387,
+            "coords": [
+                77.74,
+                -74.88
+            ],
+            "special": false
+        },
+        {
+            "name": "Chasing Embers",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 388,
+            "coords": [
+                73.65,
+                -26.94
+            ],
+            "special": false
+        },
+        {
+            "name": "First Among Wolves",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 389,
+            "coords": [
+                74.3,
+                -37
+            ],
+            "special": false
+        },
+        {
+            "name": "Pyre of Ash",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 390,
+            "coords": [
+                73.74,
+                -26.41
+            ],
+            "special": false
+        },
+        {
+            "name": "Reclamation",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 391,
+            "coords": [
+                78.24,
+                -34.41
+            ],
+            "special": false
+        },
+        {
+            "name": "The Broken Bear",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 392,
+            "coords": [
+                71.9,
+                -21.4
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "Threads of Envy",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 393,
+            "coords": [
+                82.03,
+                -59.55
+            ],
+            "special": false
+        },
+        {
+            "name": "Untangling Truths",
+            "type": "Quest",
+            "zone": "Scosglen",
+            "id": 394,
+            "coords": [
+                82.03,
+                -76.68
+            ],
+            "special": false
+        },
+        {
+            "name": "Scosglen",
+            "type": "ZoneName",
+            "zone": "Scosglen",
+            "id": 395,
+            "coords": [
+                81.07,
+                -24.43
+            ],
+            "special": false
+        },
+        {
+            "name": "Fractured Peaks",
+            "type": "ZoneName",
+            "zone": "Fractured Peaks",
+            "id": 396,
+            "coords": [
+                69.84,
+                10.37
+            ],
+            "special": false
+        },
+        {
+            "name": "Hawezar",
+            "type": "ZoneName",
+            "zone": "Hawezar",
+            "id": 397,
+            "coords": [
+                8.93,
+                11
+            ],
+            "special": false
+        },
+        {
+            "name": "Kehjistan",
+            "type": "ZoneName",
+            "zone": "Kehjistan",
+            "id": 398,
+            "coords": [
+                41.31,
+                -148.54
+            ],
+            "special": false
+        },
+        {
+            "name": "Dry Steppes",
+            "type": "ZoneName",
+            "zone": "Dry Steppes",
+            "id": 399,
+            "coords": [
+                71.05,
+                -130.43
+            ],
+            "special": false
+        },
+        {
+            "name": "Butchers of the North",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 400,
+            "coords": [
+                50.74,
+                -134.38
+            ],
+            "special": false
+        },
+        {
+            "name": "Symbol of Faith",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 401,
+            "coords": [
+                50.78,
+                -135.99
+            ],
+            "special": false
+        },
+        {
+            "name": "The Pilgrim's Footsteps",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 402,
+            "coords": [
+                46.01,
+                -138.87
+            ],
+            "special": false,
+            "extra": "Emote \"Follow Me\" at statue"
+        },
+        {
+            "name": "Desiccation",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 403,
+            "coords": [
+                44.56,
+                -132.54
+            ],
+            "special": false
+        },
+        {
+            "name": "Unsafe Travels",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 404,
+            "coords": [
+                40.21,
+                -127.49
+            ],
+            "special": false
+        },
+        {
+            "name": "Mirage",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 405,
+            "coords": [
+                45.64,
+                -114.35
+            ],
+            "special": false
+        },
+        {
+            "name": "Road to Ruin",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 406,
+            "coords": [
+                39.74,
+                -108.15
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "The Only Cure",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 407,
+            "coords": [
+                37.23,
+                -107.27
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Shadow of Alcarnus",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 408,
+            "coords": [
+                31.62,
+                -102.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Payment Past Due",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 409,
+            "coords": [
+                27.41,
+                -89.74
+            ],
+            "special": false
+        },
+        {
+            "name": "Strayed from the Path",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 410,
+            "coords": [
+                27.59,
+                -90.55
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Traces of Iron",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 411,
+            "coords": [
+                29.27,
+                -91.05
+            ],
+            "special": false
+        },
+        {
+            "name": "Ravenous Necrolyte's Cache",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 412,
+            "coords": [
+                43.69,
+                -67.85
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "An Unlawful Order",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 413,
+            "coords": [
+                21.21,
+                -116.28
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Zakarum's Plight",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 414,
+            "coords": [
+                6.18,
+                -129.95
+            ],
+            "special": false
+        },
+        {
+            "name": "When the Tide Comes In",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 415,
+            "coords": [
+                3.12,
+                -144.54
+            ],
+            "special": false
+        },
+        {
+            "name": "The Speaking Stone",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 416,
+            "coords": [
+                6.36,
+                -145.55
+            ],
+            "special": false
+        },
+        {
+            "name": "Acts of Atonement",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 417,
+            "coords": [
+                20.59,
+                -124.67
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Justice Delayed",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 418,
+            "coords": [
+                12.38,
+                -145.72
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Deadly Trade",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 419,
+            "coords": [
+                13.62,
+                -144.32
+            ],
+            "special": false
+        },
+        {
+            "name": "Pinch of Poison",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 420,
+            "coords": [
+                13.97,
+                -144.98
+            ],
+            "special": false
+        },
+        {
+            "name": "Endless Fortune",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 421,
+            "coords": [
+                36.7,
+                -146.51
+            ],
+            "special": false,
+            "extra": "Any Treasure Goblin drop"
+        },
+        {
+            "name": "Sealed Khazra Offering",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 422,
+            "coords": [
+                5.27,
+                -126.61
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "Final Straw",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 423,
+            "coords": [
+                17.18,
+                -141.02
+            ],
+            "special": false
+        },
+        {
+            "name": "Izel of the Vizjerei",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 424,
+            "coords": [
+                18.65,
+                -138.25
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Seeking Refuge",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 425,
+            "coords": [
+                23.85,
+                -147.74
+            ],
+            "special": false
+        },
+        {
+            "name": "An Errant Flock",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 426,
+            "coords": [
+                23,
+                -119.14
+            ],
+            "special": false
+        },
+        {
+            "name": "Remnants",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 427,
+            "coords": [
+                25.88,
+                -126.78
+            ],
+            "special": false,
+            "extra": "Inside dungeon, interact with dead bodies"
+        },
+        {
+            "name": "The Way of the Three",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 428,
+            "coords": [
+                37.09,
+                -117.73
+            ],
+            "special": false
+        },
+        {
+            "name": "In Desperate Times",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 429,
+            "coords": [
+                36.42,
+                -124.45
+            ],
+            "special": false
+        },
+        {
+            "name": "The Weapon of a Wolf",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 430,
+            "coords": [
+                30.41,
+                -123.75
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "Guardians of the Pit",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 431,
+            "coords": [
+                35.75,
+                -131.26
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "A Wolf's Honor",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 432,
+            "coords": [
+                35.82,
+                -132.28
+            ],
+            "special": false
+        },
+        {
+            "name": "Head of the Snake",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 433,
+            "coords": [
+                31.69,
+                -134.17
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "More Value Than Gold",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 434,
+            "coords": [
+                33.47,
+                -135
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Strange Remedies",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 435,
+            "coords": [
+                36.74,
+                -136.63
+            ],
+            "special": false
+        },
+        {
+            "name": "A Pound of Flesh",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 436,
+            "coords": [
+                65.55,
+                -96.24
+            ],
+            "special": false
+        },
+        {
+            "name": "Blistered Heart",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 437,
+            "coords": [
+                47.52,
+                -100.99
+            ],
+            "special": false
+        },
+        {
+            "name": "Blood and Sweat",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 438,
+            "coords": [
+                48.6,
+                -73.08
+            ],
+            "special": false
+        },
+        {
+            "name": "Consumed by Pride",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 439,
+            "coords": [
+                60.33,
+                -98.35
+            ],
+            "special": false
+        },
+        {
+            "name": "Corroding Mettle",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 440,
+            "coords": [
+                70.95,
+                -102
+            ],
+            "special": false
+        },
+        {
+            "name": "Crucible of Worth",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 441,
+            "coords": [
+                70.07,
+                -102.22
+            ],
+            "special": false
+        },
+        {
+            "name": "Culling of Flesh",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 442,
+            "coords": [
+                60.06,
+                -99.8
+            ],
+            "special": false
+        },
+        {
+            "name": "Curious Curios",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 443,
+            "coords": [
+                62.55,
+                -64.2
+            ],
+            "special": false
+        },
+        {
+            "name": "Exhuming Faith",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 444,
+            "coords": [
+                64.64,
+                -104.06
+            ],
+            "special": false
+        },
+        {
+            "name": "Firsthand Knowledge",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 445,
+            "coords": [
+                62.98,
+                -113.69
+            ],
+            "special": false
+        },
+        {
+            "name": "Hunger for a New Life",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 446,
+            "coords": [
+                73.29,
+                -83.58
+            ],
+            "special": false
+        },
+        {
+            "name": "Hunting the Relic Hunter",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 447,
+            "coords": [
+                66.9,
+                -74.86
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Keeping the Old Traditions",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 448,
+            "coords": [
+                53.7,
+                -88.73
+            ],
+            "special": false,
+            "extra": "Emote \"Yes\" at statue"
+        },
+        {
+            "name": "Kith and Kin",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 449,
+            "coords": [
+                64.64,
+                -93.78
+            ],
+            "special": false
+        },
+        {
+            "name": "Malign Devotion",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 450,
+            "coords": [
+                71.03,
+                -104.72
+            ],
+            "special": false
+        },
+        {
+            "name": "More Than Meets the Eye",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 451,
+            "coords": [
+                51.85,
+                -70.2
+            ],
+            "extra": "Quest chain"
+        },
+        {
+            "name": "No Deed Unpunished",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 452,
+            "coords": [
+                69.73,
+                -93.71
+            ],
+            "special": false
+        },
+        {
+            "name": "Phases of the Moon",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 453,
+            "coords": [
+                50.6,
+                -75.41
+            ],
+            "special": false
+        },
+        {
+            "name": "Salt Begets Salt",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 454,
+            "coords": [
+                44.84,
+                -101.29
+            ],
+            "special": false
+        },
+        {
+            "name": "Scorched Debts",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 455,
+            "coords": [
+                64.96,
+                -100.22
+            ],
+            "special": false
+        },
+        {
+            "name": "Sealed Oxen Tribe Cache",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 456,
+            "coords": [
+                67.94,
+                -83.63
+            ],
+            "special": false,
+            "extra": "Kill enemies for item drop"
+        },
+        {
+            "name": "Sentimental Value",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 457,
+            "coords": [
+                60.69,
+                -75.85
+            ],
+            "special": false
+        },
+        {
+            "name": "Tarnished Amulet",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 458,
+            "coords": [
+                56.85,
+                -98.17
+            ],
+            "special": false,
+            "extra": "Kill enemies for item drop"
+        },
+        {
+            "name": "The Unlucky Ones",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 459,
+            "coords": [
+                58.56,
+                -129.11
+            ],
+            "special": false
+        },
+        {
+            "name": "Thieves' Famine",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 460,
+            "coords": [
+                70.77,
+                -103.4
+            ],
+            "special": false
+        },
+        {
+            "name": "Treasure or Trash",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 461,
+            "coords": [
+                66.71,
+                -74.58
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Weight of Sin",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 462,
+            "coords": [
+                62.88,
+                -67.59
+            ],
+            "special": false
+        },
+        {
+            "name": "What Remains",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 463,
+            "coords": [
+                60.57,
+                -74.84
+            ],
+            "special": false
+        },
+        {
+            "name": "Worthy of Arreat",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 464,
+            "coords": [
+                60.2,
+                -98.13
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "To Walk a Dark Path",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 465,
+            "coords": [
+                15.79,
+                -71.67
+            ],
+            "special": false
+        },
+        {
+            "name": "A Price to Pay",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 466,
+            "coords": [
+                10.83,
+                -67.63
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Remnants of Faith",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 467,
+            "coords": [
+                14.99,
+                -73.96
+            ],
+            "special": false
+        },
+        {
+            "name": "Coiled Grasp",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 468,
+            "coords": [
+                12.3,
+                -74.44
+            ],
+            "special": false
+        },
+        {
+            "name": "The Heretic",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 469,
+            "coords": [
+                11.95,
+                -72.6
+            ],
+            "special": false
+        },
+        {
+            "name": "Glittering Abundance",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 470,
+            "coords": [
+                0.66,
+                -51.11
+            ],
+            "special": false,
+            "extra": "Loot mining nodes"
+        },
+        {
+            "name": "Overstepping the Mark",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 471,
+            "coords": [
+                12.98,
+                -71.72
+            ],
+            "special": false
+        },
+        {
+            "name": "Poisoned Hearts",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 472,
+            "coords": [
+                11.35,
+                -52.87
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "By Three They Come",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 473,
+            "coords": [
+                -3.34,
+                -7.08
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Left Behind",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 474,
+            "coords": [
+                5.75,
+                -40.65
+            ],
+            "special": false
+        },
+        {
+            "name": "Lost Cause",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 475,
+            "coords": [
+                7.75,
+                -39.46
+            ],
+            "special": false
+        },
+        {
+            "name": "Flesh and Blood",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 476,
+            "coords": [
+                16.59,
+                -48.34
+            ],
+            "special": false
+        },
+        {
+            "name": "At Any Cost",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 477,
+            "coords": [
+                17.43,
+                -44.91
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Lost Legacy",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 478,
+            "coords": [
+                25.24,
+                -41.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Gift of the Swamp",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 479,
+            "coords": [
+                28.3,
+                -46.19
+            ],
+            "special": false
+        },
+        {
+            "name": "Fungal Remedies",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 480,
+            "coords": [
+                36.88,
+                -49.92
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Closing the Book",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 481,
+            "coords": [
+                37.06,
+                -46.1
+            ],
+            "special": false
+        },
+        {
+            "name": "Heart of Mold",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 482,
+            "coords": [
+                39.06,
+                -46.32
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Desperate Remedies",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 483,
+            "coords": [
+                38.13,
+                -44.74
+            ],
+            "special": false
+        },
+        {
+            "name": "A Question of Self",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 484,
+            "coords": [
+                36.17,
+                -41.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Past Regrets",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 485,
+            "coords": [
+                34.52,
+                -28.04
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "What Can't Be Cured",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 486,
+            "coords": [
+                45.31,
+                -40.03
+            ],
+            "special": false
+        },
+        {
+            "name": "Chained Zakarum Repository",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 487,
+            "coords": [
+                34.25,
+                -37.53
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "Growing Reminders",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 488,
+            "coords": [
+                42.03,
+                -20.7
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Tangled Memories",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 489,
+            "coords": [
+                41.38,
+                -19.29
+            ],
+            "special": false
+        },
+        {
+            "name": "Heart's Burden",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 490,
+            "coords": [
+                37.06,
+                -12.92
+            ],
+            "special": false,
+            "extra": "Loot from corpse"
+        },
+        {
+            "name": "Perceived Threat",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 491,
+            "coords": [
+                25.8,
+                -16.48
+            ],
+            "special": false
+        },
+        {
+            "name": "Ire of the Witch",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 492,
+            "coords": [
+                25.2,
+                -17.23
+            ],
+            "special": false
+        },
+        {
+            "name": "Traveler's Superstition",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 493,
+            "coords": [
+                26.04,
+                0.88
+            ],
+            "special": false
+        },
+        {
+            "name": "Brought to Heel",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 494,
+            "coords": [
+                7.1,
+                -3.65
+            ],
+            "special": false
+        },
+        {
+            "name": "Dead in the Water",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 495,
+            "coords": [
+                5.62,
+                -2.55
+            ],
+            "special": false
+        },
+        {
+            "name": "Drink to the Past",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 496,
+            "coords": [
+                4.96,
+                -3.65
+            ],
+            "special": false
+        },
+        {
+            "name": "The Greater Good",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 497,
+            "coords": [
+                5.18,
+                -4.35
+            ],
+            "special": false
+        },
+        {
+            "name": "A Debt Repaid",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 498,
+            "coords": [
+                4.35,
+                -5.01
+            ],
+            "special": false
+        },
+        {
+            "name": "Turbulent Waters",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 499,
+            "coords": [
+                24.37,
+                -30.37
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Dead to Rights",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 500,
+            "coords": [
+                7.84,
+                -17.23
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Bad Blood",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 501,
+            "coords": [
+                -0.22,
+                -24.7
+            ],
+            "special": false
+        },
+        {
+            "name": "The Swamp's Protection",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 502,
+            "coords": [
+                8.62,
+                -20.04
+            ],
+            "special": false
+        },
+        {
+            "name": "One Little Red Sprig",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 503,
+            "coords": [
+                8.75,
+                -20.52
+            ],
+            "special": false,
+            "extra": "Loot herbs"
+        },
+        {
+            "name": "Moordain Lodge",
+            "type": "Stronghold",
+            "zone": "Scosglen",
+            "id": 504,
+            "coords": [
+                78.47,
+                -16.88
+            ],
+            "special": false
+        },
+        {
+            "name": "Tur Durla",
+            "type": "Stronghold",
+            "zone": "Scosglen",
+            "id": 505,
+            "coords": [
+                77.86,
+                -83.19
+            ],
+            "special": false
+        },
+        {
+            "name": "Hope's Light",
+            "type": "Stronghold",
+            "zone": "Scosglen",
+            "id": 506,
+            "coords": [
+                83.72,
+                -65.3
+            ],
+            "special": false
+        },
+        {
+            "name": "The Onyx Watchtower",
+            "type": "Stronghold",
+            "zone": "Dry Steppes",
+            "id": 507,
+            "coords": [
+                65.11,
+                -94.17
+            ],
+            "special": false
+        },
+        {
+            "name": "Ruins of Qara-Yisu",
+            "type": "Stronghold",
+            "zone": "Dry Steppes",
+            "id": 508,
+            "coords": [
+                50.26,
+                -72.82
+            ],
+            "special": false
+        },
+        {
+            "name": "Temple of Rot",
+            "type": "Stronghold",
+            "zone": "Dry Steppes",
+            "id": 509,
+            "coords": [
+                55.35,
+                -106.79
+            ],
+            "special": false
+        },
+        {
+            "name": "Altar of Ruin",
+            "type": "Stronghold",
+            "zone": "Kehjistan",
+            "id": 510,
+            "coords": [
+                47.4,
+                -127.31
+            ],
+            "special": false
+        },
+        {
+            "name": "Alcarnus",
+            "type": "Stronghold",
+            "zone": "Kehjistan",
+            "id": 511,
+            "coords": [
+                38.55,
+                -102.17
+            ],
+            "special": false
+        },
+        {
+            "name": "Omath's Redoubt",
+            "type": "Stronghold",
+            "zone": "Kehjistan",
+            "id": 512,
+            "coords": [
+                9.32,
+                -121.95
+            ],
+            "special": false
+        },
+        {
+            "name": "Crusader's Monument",
+            "type": "Stronghold",
+            "zone": "Hawezar",
+            "id": 513,
+            "coords": [
+                32.14,
+                -68.38
+            ],
+            "special": false
+        },
+        {
+            "name": "Vyeresz",
+            "type": "Stronghold",
+            "zone": "Hawezar",
+            "id": 514,
+            "coords": [
+                5.97,
+                -37.44
+            ],
+            "special": false
+        },
+        {
+            "name": "Eriman's Pyre",
+            "type": "Stronghold",
+            "zone": "Hawezar",
+            "id": 515,
+            "coords": [
+                43.58,
+                -25.53
+            ],
+            "special": false
+        },
+        {
+            "name": "Reject the Mother",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 516,
+            "coords": [
+                69.6,
+                -91.23
+            ],
+            "special": false,
+            "extra": "Emote \"No\" at Secret Shrine"
+        },
+        {
+            "name": "Augury of Bones",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 517,
+            "coords": [
+                45.98,
+                -103.97
+            ],
+            "special": false
+        },
+        {
+            "name": "Sealed Penitent's Cache",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 518,
+            "coords": [
+                63.88,
+                -120.41
+            ],
+            "special": false,
+            "extra": "Kill undead for item drop"
+        },
+        {
+            "name": "Hubris Smiles Back",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 519,
+            "coords": [
+                53.2,
+                -89.3
+            ],
+            "special": false
+        },
+        {
+            "name": "Raising Spears",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 520,
+            "coords": [
+                60.69,
+                -97.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Necrotic Research",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 521,
+            "coords": [
+                1,
+                -25.22
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Venom of the Nangari",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 522,
+            "coords": [
+                -4.52,
+                -36.78
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "A Series of Steps",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 523,
+            "coords": [
+                41,
+                -10
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Unearthed Regrets",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 524,
+            "coords": [
+                42.36,
+                -19.82
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "A Voice from the Past",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 525,
+            "coords": [
+                18.65,
+                -139
+            ],
+            "special": false
+        },
+        {
+            "name": "On the Hunt",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 526,
+            "coords": [
+                35.32,
+                -131
+            ],
+            "special": false
+        },
+        {
+            "name": "To Serve Again",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 527,
+            "coords": [
+                24.53,
+                -115.84
+            ],
+            "special": false,
+            "extra": "World drop"
+        },
+        {
+            "name": "Fury Against Fate",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 528,
+            "coords": [
+                49.55,
+                -88.46
+            ],
+            "special": false,
+            "extra": "Quest chain (Raising Spears)"
+        },
+        {
+            "name": "In the Name of Love",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 529,
+            "coords": [
+                66.91,
+                -74.44
+            ],
+            "special": false,
+            "extra": "Unlocks after campaign"
+        },
+        {
+            "name": "Dust Daisy",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 530,
+            "coords": [
+                70.99,
+                -100.63
+            ],
+            "special": false,
+            "extra": "Loot herbs"
+        },
+        {
+            "name": "To Serve Again",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 531,
+            "coords": [
+                30.98,
+                -122.04
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "Icebound Geode",
+            "type": "Quest",
+            "zone": "Fractured Peaks",
+            "id": 532,
+            "coords": [
+                60.34,
+                -33.75
+            ],
+            "special": false,
+            "extra": "Loot mining nodes"
+        },
+        {
+            "name": "Discretionary Spending",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 533,
+            "coords": [
+                4.96,
+                -3.25
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Bait the Trap",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 534,
+            "coords": [
+                4.96,
+                -2.85
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Song of Rot",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 535,
+            "coords": [
+                26,
+                -17
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Timeworn Effigy",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 536,
+            "coords": [
+                41.51,
+                -16.64
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "Currencies from Afar",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 537,
+            "coords": [
+                57.39,
+                -85.32
+            ],
+            "special": false,
+            "extra": "Interact with objects in area"
+        },
+        {
+            "name": "A Moment of Peace",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 538,
+            "coords": [
+                29.76,
+                -136.76
+            ],
+            "special": false,
+            "extra": "Quest chain"
+        },
+        {
+            "name": "Spotted Mushroom",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 539,
+            "coords": [
+                58.45,
+                -32.5
+            ],
+            "special": false,
+            "extra": "Loot herbs in Kehjistan"
+        },
+        {
+            "name": "Timely Correspondence",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 540,
+            "coords": [
+                30.43,
+                -140.43
+            ],
+            "special": false,
+            "extra": "Loot chest"
+        },
+        {
+            "name": "Mephisto Statue",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 541,
+            "coords": [
+                17.82,
+                -119.93
+            ],
+            "special": true,
+            "extra": "Prereq for \"The Way of the Three\". Emote \"Cheer\""
+        },
+        {
+            "name": "Diablo Statue",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 542,
+            "coords": [
+                16.6,
+                -131.93
+            ],
+            "special": true,
+            "extra": "Prereq for \"The Way of the Three\". Emote \"Cheer\""
+        },
+        {
+            "name": "Baal Statue",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 543,
+            "coords": [
+                49.31,
+                -126.08
+            ],
+            "special": true,
+            "extra": "Prereq for \"The Way of the Three\". Emote \"Cheer\""
+        },
+        {
+            "name": "Late Shipment",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 544,
+            "coords": [
+                3.32,
+                -138.54
+            ],
+            "special": false,
+            "extra": "Item drop"
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 545,
+            "coords": [
+                82.02,
+                -77.04
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 546,
+            "coords": [
+                79.94,
+                -72.29
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 547,
+            "coords": [
+                76.13,
+                -93.34
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 548,
+            "coords": [
+                76.26,
+                -80.68
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 549,
+            "coords": [
+                68.4,
+                -81.56
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 550,
+            "coords": [
+                78.19,
+                -76.33
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Fractured Peaks",
+            "id": 551,
+            "coords": [
+                67.44,
+                -48.69
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Fractured Peaks",
+            "id": 552,
+            "coords": [
+                62.54,
+                -25.27
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Fractured Peaks",
+            "id": 553,
+            "coords": [
+                57.77,
+                -19.73
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Dry Steppes",
+            "id": 554,
+            "coords": [
+                68.42,
+                -81.56
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Dry Steppes",
+            "id": 555,
+            "coords": [
+                46.71,
+                -85.87
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Dry Steppes",
+            "id": 556,
+            "coords": [
+                51.29,
+                -112.63
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Hawezar",
+            "id": 557,
+            "coords": [
+                46.59,
+                -35.11
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Hawezar",
+            "id": 558,
+            "coords": [
+                38,
+                -58.71
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Hawezar",
+            "id": 559,
+            "coords": [
+                15.67,
+                -46.93
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Hawezar",
+            "id": 560,
+            "coords": [
+                -1.19,
+                -57.74
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 561,
+            "coords": [
+                46.53,
+                -142.16
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 562,
+            "coords": [
+                42.42,
+                -128.36
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 563,
+            "coords": [
+                41.87,
+                -140.58
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 564,
+            "coords": [
+                39.67,
+                -142.73
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 565,
+            "coords": [
+                37.86,
+                -147.17
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 566,
+            "coords": [
+                29.99,
+                -140.93
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 567,
+            "coords": [
+                11.89,
+                -131.2
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 568,
+            "coords": [
+                4.15,
+                -147.55
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 569,
+            "coords": [
+                1.56,
+                -130.1
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 570,
+            "coords": [
+                7.93,
+                -122.94
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 571,
+            "coords": [
+                39.96,
+                -113.55
+            ],
+            "special": false
+        },
+        {
+            "name": "Hawezar",
+            "type": "World Boss",
+            "zone": "Hawezar",
+            "id": 572,
+            "coords": [
+                4.7,
+                -62.58
+            ],
+            "special": false
+        },
+        {
+            "name": "Kehjistan",
+            "type": "World Boss",
+            "zone": "Kehjistan",
+            "id": 573,
+            "coords": [
+                43.71,
+                -90.83
+            ],
+            "special": false
+        },
+        {
+            "name": "Fractured Peaks",
+            "type": "World Boss",
+            "zone": "Fractured Peaks",
+            "id": 574,
+            "coords": [
+                55.75,
+                7.58
+            ],
+            "special": false
+        },
+        {
+            "name": "Scosglen",
+            "type": "World Boss",
+            "zone": "Scosglen",
+            "id": 575,
+            "coords": [
+                79.2,
+                -35.42
+            ],
+            "special": false
+        },
+        {
+            "name": "Dry Steppes",
+            "type": "World Boss",
+            "zone": "Dry Steppes",
+            "id": 576,
+            "coords": [
+                54.97,
+                -65.57
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 577,
+            "coords": [
+                73.34,
+                -75.72
+            ],
+            "special": false
+        },
+        {
+            "name": "Strange Ore Sample",
+            "type": "Quest",
+            "zone": "Dry Steppes",
+            "id": 578,
+            "coords": [
+                70.3,
+                -103.14
+            ],
+            "special": false,
+            "extra": "Loot mining nodes"
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Kehjistan",
+            "id": 579,
+            "coords": [
+                1.21,
+                -128.94
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Dry Steppes",
+            "id": 580,
+            "coords": [
+                63.04,
+                -80.38
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Fractured Peaks",
+            "id": 581,
+            "coords": [
+                68.58,
+                -45.92
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 582,
+            "coords": [
+                81.83,
+                -52.51
+            ],
+            "special": false
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Scosglen",
+            "id": 583,
+            "coords": [
+                82.51,
+                -56.1
+            ],
+            "special": false
+        },
+        {
+            "name": "Hungering Necrolyte's Cache",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 584,
+            "coords": [
+                -7.55,
+                -27.54
+            ],
+            "special": false,
+            "extra": "Interact with dead bodies"
+        },
+        {
+            "name": "Good Riddance",
+            "type": "Quest",
+            "zone": "Hawezar",
+            "id": 585,
+            "coords": [
+                19.63,
+                2.45
+            ],
+            "special": false,
+            "extra": "Quest chain & Interact with dead bodies along coast"
+        },
+        {
+            "name": "Unusual Ore",
+            "type": "Quest",
+            "zone": "Kehjistan",
+            "id": 586,
+            "coords": [
+                34.62,
+                -131.22
+            ],
+            "special": false,
+            "extra": "Loot mining nodes"
+        },
+        {
+            "name": "Mysterious Chest",
+            "type": "Mysterious Chest",
+            "zone": "Fractured Peaks",
+            "id": 587,
+            "coords": [
+                63.84,
+                -25.22
+            ],
+            "special": false
+        }
+    ]
+}
